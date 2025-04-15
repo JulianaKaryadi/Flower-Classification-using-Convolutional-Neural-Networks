@@ -37,3 +37,8 @@ The project includes comprehensive visualization tools to evaluate model perform
 - **Model Comparison**: Implements a weighted performance heuristic that combines accuracy and mAP to determine the optimal model
 
 The visualization code provides key insights into model behavior, highlighting strengths and weaknesses of each architecture when classifying the different flower types.
+
+## Dataset Access
+
+The complete flower classification dataset (10,000 images across 5 categories) is available via Google Drive:
+[FlowersDataset (10,000 images)](https://drive.google.com/drive/folders/1I3pplF-375N1Xiq7afCCE0PyVwi2sGIN?usp=drive_link)
